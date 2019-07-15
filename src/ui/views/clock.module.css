@@ -1,0 +1,12 @@
+.clock {
+	width: 150px;
+	background-color: rgb(58, 199, 129);
+	border: 2px solid black;
+	padding: 10px auto;
+	margin: 50px auto;
+	text-align: center;
+}
+.toggleButton {
+	margin: 10px auto;
+	text-align: center
+}
